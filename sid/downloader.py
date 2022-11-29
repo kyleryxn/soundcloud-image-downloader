@@ -28,12 +28,5 @@ def image_downloader(webpage, folder):
             f.write(im.content)
 
 
-directory = 'C:/Users/Kyle/Music/Electronic/'
 
-url = input(f'Enter the url: ')
-destination = input(f'\nDirectory to save the image: ')
-
-complete_name = os.path.join(directory, destination)
-
-image_downloader(url, complete_name)
 
