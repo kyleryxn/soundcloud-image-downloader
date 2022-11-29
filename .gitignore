@@ -256,4 +256,10 @@ cython_debug/
 poetry.toml
 
 
+### Images ###
+*.png
+*.jpg
+*.jpeg
+*.gif
+
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all
