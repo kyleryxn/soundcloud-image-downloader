@@ -26,7 +26,3 @@ def image_downloader(webpage, folder):
         with open(os.path.join(folder, name + '.jpg'), 'wb') as f:
             im = requests.get(link)
             f.write(im.content)
-
-
-
-
