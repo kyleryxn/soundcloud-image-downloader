@@ -4,4 +4,4 @@ This tool automates the process of downloading the album artwork for a song on S
 
 ## Example
 
-<img src="example.png" alt="Command-line example of grabbing image">
+<img src="docs/example.png" alt="Command-line example of grabbing image">
